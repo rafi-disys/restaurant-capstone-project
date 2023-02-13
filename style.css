@@ -1,0 +1,42 @@
+.eats{
+    position: relative;
+    height: 90vh;
+    /* width: 100vw; */
+    background-image: url("./images/background.jpg");
+    background-size: cover;
+    background-position: center;
+    /* background-color: rgba(0,0,0,.5); */
+    background-color: #000000;
+    opacity: .85;
+    /* opacity: 90% ; */
+
+}
+
+.eats h3{
+    top: 30%;
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+   
+    font-size: 110px;
+    color: rgb(255, 252, 252);
+
+}
+
+/* .eats box{
+    border: 1px solid green ;
+} */
+
+.formstyle {
+    width: 550px; 
+    height: 450px;
+    /* margin: auto; */
+    padding-left: 50px;
+    position: relative;
+   }
+
+.padman{
+    padding: 10px;
+}
