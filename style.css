@@ -39,4 +39,34 @@
 
 .padman{
     padding: 10px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* MAP */
+.map {
+    width: 100%;
+    margin: 30px auto;
+}
+
+/* Menu */
+.menu-add {
+    background-color: green;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    padding: 0 10px;
+}
+
+/* Footer */
+.footer-links {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
 }
